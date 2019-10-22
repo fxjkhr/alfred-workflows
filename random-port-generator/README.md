@@ -1,3 +1,3 @@
 `random-port-generator.alfredworkflow`
 
-Generates a valid port for web services, into your clipboard.
+Generates a valid port for web services, into your clipboard.  Probably found the applescript somewhere online...
